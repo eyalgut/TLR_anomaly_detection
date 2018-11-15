@@ -1,5 +1,5 @@
 This is the data set described in the following paper:
-Eyal Gutflaish, Aryeh Kontorovich, Sivan Sabato, Ofer Biller, Oded Sofer, "Temporal Anomaly Detection: Calibrating the Surprise", Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 2018. 
+Eyal Gutflaish, Aryeh Kontorovich, Sivan Sabato, Ofer Biller, Oded Sofer, "Temporal Anomaly Detection: Calibrating the Surprise", Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 2019. 
 Please contact the first author at eyalgutf@gmail.com with any questions. 
 
 THE DATA SET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
