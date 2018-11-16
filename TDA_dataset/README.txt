@@ -10,7 +10,8 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE DATA SET OR THE USE OR
 OTHER DEALINGS IN THE DATA SET.
 
-The TDA dataset is released in the file TDADateSet.mat 
+
+The TDA dataset is released in the file TDADateSet.mat (matlab).
 It is a Matlab file, which can be loaded into matlab using 'load'.
 
 The file includes the following Matlab variables:
@@ -24,3 +25,5 @@ of each of the time intervals recorded in the access matrices.
 The timestamp format is yyyymmddhhMMss.
 The matrices correspond to consecutive hour-long time intervals 
 recorded between July 1st, 2015 and August 31st, 2015. 
+
+This dataset is also available in CSV format at https://www.kaggle.com/eyalgut/binary-traffic-matrices
